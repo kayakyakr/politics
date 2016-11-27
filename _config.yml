@@ -1,0 +1,18 @@
+title: Politics
+email: charles@dubo.se
+description: >
+  Political ramblings of a political guy
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://politics.dubo.se" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: kayakyakr
+github_username:  kayakyakr
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+  - github-pages
+exclude:
+  - Gemfile
+  - Gemfile.lock
